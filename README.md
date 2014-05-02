@@ -13,7 +13,26 @@ Free open public domain football data for
 the Confederations Cup (e.g. Brazil 2013, Russia 2017). Example:
 
 ~~~
+####################################
+# Confederations Cup 2013 Brasil
 
+Group A  |  Brazil      Japan        Mexico       Italy
+Group B  |  Spain       Uruguay      Tahiti       Nigeria
+
+
+Matchday 1  |  Sat Jun/15 - Mon Jun/17
+Matchday 2  |  Wed Jun/19 - Thu Jun/20
+Matchday 3  |  Sat Jun/22 - Sun Jun/23
+
+
+Group A:
+
+(1)  Sat Jun/15 16:00   Brazil  3-0  Japan     @ Estádio Nacional, Brasília
+(2)  Sun Jun/16 16:00   Mexico  1-2  Italy     @ Estádio do Maracanã, Rio de Janeiro
+
+(5)  Wed Jun/19 16:00   Brazil  2-0  Mexico    @ Estádio Castelão, Fortaleza
+(6)  Wed Jun/19 19:00   Italy   4-3  Japan     @ Arena Pernambuco, Recife
+...
 ~~~
 
 
