@@ -1,7 +1,7 @@
 ##################################
 # Confederations Cup 2017 Russia
 
-# Note:  All times Moscow (Summer) Time (UTC+3) - MSTC
+# Note:  All times MSK - Moscow Time (UTC+3)
 
 
 Group A  |  Russia      New Zealand   Portugal     Mexico
@@ -12,10 +12,16 @@ Matchday 1  |  Sat Jun/17 - Mon Jun/19
 Matchday 2  |  Wed Jun/21 - Thu Jun/22
 Matchday 3  |  Sat Jun/24 - Sun Jun/25
 
+(4) Semi-finals           | Wed Jun/28 - Thu Jun/29
+(5) Third place play-off  | Sun Jul/2 
+(6) Final                 | Sun Jul/2
+
+
 
 Group A:
 
-(1)  Sat Jun/17 18:00     Russia       -	New Zealand  @ Krestovsky Stadium, Saint Petersburg
+(1)  Sat Jun/17 18:00     Russia      2-0 (1-0)  New Zealand  @ Krestovsky Stadium, Saint Petersburg
+                             [Boxall Goal 31' (o.g.) Smolov 69'; -]
 (2)  Sun Jun/18 18:00     Portugal     -  Mexico       @ Kazan Arena, Kazan
 
 (5)  Wed Jun/21 18:00     Russia 	     -  Portugal     @ Otkrytiye Arena, Moscow
@@ -35,6 +41,7 @@ Group B:
 
 (11)  Sun Jun/25 18:00    Germany 	   -  Cameroon     @ Fisht Olympic Stadium, Sochi
 (12)  Sun Jun/25 18:00    Chile 	     -  Australia    @ Otkrytiye Arena, Moscow
+
 
 
 ####################
