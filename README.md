@@ -27,11 +27,11 @@ Matchday 3  |  Sat Jun/24 - Sun Jun/25
 
 Group A:
 
-(1)  Sat Jun/17 18:00     Russia       -	New Zealand  @ Krestovsky Stadium, Saint Petersburg
-(2)  Sun Jun/18 18:00     Portugal     -  Mexico       @ Kazan Arena, Kazan
+(1)  Sat Jun/17 18:00     Russia     -  New Zealand  @ Krestovsky Stadium, Saint Petersburg
+(2)  Sun Jun/18 18:00     Portugal   -  Mexico       @ Kazan Arena, Kazan
 
-(5)  Wed Jun/21 18:00     Russia 	     -  Portugal     @ Otkrytiye Arena, Moscow
-(6)  Wed Jun/21 21:00     Mexico 	     -  New Zealand  @ Fisht Olympic Stadium, Sochi
+(5)  Wed Jun/21 18:00     Russia     -  Portugal     @ Otkrytiye Arena, Moscow
+(6)  Wed Jun/21 21:00     Mexico     -  New Zealand  @ Fisht Olympic Stadium, Sochi
 ...
 ```
 
