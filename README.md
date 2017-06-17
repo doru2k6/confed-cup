@@ -7,6 +7,7 @@ for use in any (programming) language
 (e.g. uses plain text fixtures/data sets).
 More [`football.db` Project Site »](http://openfootball.github.io)
 
+
 ## Intro
 
 Free open public domain football data for
@@ -14,7 +15,7 @@ the Confederations Cup (e.g. Brazil 2013, Russia 2017). Example:
 
 ```
 ####################################
-# Confederations Cup 2013 Brasil
+# Confederations Cup 2017 Russia
 
 Group A  |  Russia      New Zealand   Portugal     Mexico
 Group B  |  Cameroon    Chile         Australia    Germany
@@ -39,9 +40,7 @@ Group A:
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text fixtures.
-
-[More »](https://github.com/openfootball/datafile)
+from the plain text datasets. [More »](https://github.com/openfootball/datafile)
 
 
 
