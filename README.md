@@ -12,34 +12,55 @@ More [`football.db` Project Site »](http://openfootball.github.io)
 Free open public domain football data for
 the Confederations Cup (e.g. Brazil 2013, Russia 2017). Example:
 
-~~~
+```
 ####################################
 # Confederations Cup 2013 Brasil
 
-Group A  |  Brazil      Japan        Mexico       Italy
-Group B  |  Spain       Uruguay      Tahiti       Nigeria
+Group A  |  Russia      New Zealand   Portugal     Mexico
+Group B  |  Cameroon    Chile         Australia    Germany
 
 
-Matchday 1  |  Sat Jun/15 - Mon Jun/17
-Matchday 2  |  Wed Jun/19 - Thu Jun/20
-Matchday 3  |  Sat Jun/22 - Sun Jun/23
+Matchday 1  |  Sat Jun/17 - Mon Jun/19
+Matchday 2  |  Wed Jun/21 - Thu Jun/22
+Matchday 3  |  Sat Jun/24 - Sun Jun/25
 
 
 Group A:
 
-(1)  Sat Jun/15 16:00   Brazil  3-0  Japan     @ Estádio Nacional, Brasília
-(2)  Sun Jun/16 16:00   Mexico  1-2  Italy     @ Estádio do Maracanã, Rio de Janeiro
+(1)  Sat Jun/17 18:00     Russia       -	New Zealand  @ Krestovsky Stadium, Saint Petersburg
+(2)  Sun Jun/18 18:00     Portugal     -  Mexico       @ Kazan Arena, Kazan
 
-(5)  Wed Jun/19 16:00   Brazil  2-0  Mexico    @ Estádio Castelão, Fortaleza
-(6)  Wed Jun/19 19:00   Italy   4-3  Japan     @ Arena Pernambuco, Recife
+(5)  Wed Jun/21 18:00     Russia 	     -  Portugal     @ Otkrytiye Arena, Moscow
+(6)  Wed Jun/21 21:00     Mexico 	     -  New Zealand  @ Fisht Olympic Stadium, Sochi
 ...
-~~~
+```
 
 
 ## Build Your Own `football.db` Copy
 
 Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text fixtures. [More »](http://openfootball.github.io/build.html)
+from the plain text fixtures.
+
+[More »](https://github.com/openfootball/datafile)
+
+
+
+### Examples
+
+Build the database for all confederations cups:
+
+    $ sportdb new confed
+
+Build the database for the 2017 cup:
+
+    $ sportdb new confed2017
+
+
+## License
+
+![](https://publicdomainworks.github.io/buttons/zero88x31.png)
+
+The football.db schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 
 ## Questions? Comments?
