@@ -30,10 +30,13 @@ Group A:
 
 (1)  Sat Jun/17 18:00     Russia      2-0 (1-0)  New Zealand  @ Krestovsky Stadium, Saint Petersburg
                              [Boxall 31' (o.g.) Smolov 69']
-(2)  Sun Jun/18 18:00     Portugal   -  Mexico       @ Kazan Arena, Kazan
+(2)  Sun Jun/18 18:00     Portugal    2-2 (1-1)  Mexico       @ Kazan Arena, Kazan
+                             [Quaresma 34' Cédric 86'; Hernández 42' Moreno 90+1']
 
-(5)  Wed Jun/21 18:00     Russia     -  Portugal     @ Otkrytiye Arena, Moscow
-(6)  Wed Jun/21 21:00     Mexico     -  New Zealand  @ Fisht Olympic Stadium, Sochi
+(5)  Wed Jun/21 18:00     Russia 	    0-1 (0-1)  Portugal     @ Otkrytiye Arena, Moscow
+                             [-; Ronaldo 8']
+(6)  Wed Jun/21 21:00     Mexico 	     2-1 (0-1)   New Zealand  @ Fisht Olympic Stadium, Sochi
+                             [Jiménez 54' Peralta 72'; Wood 42'] 
 ...
 ```
 
