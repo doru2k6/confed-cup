@@ -30,8 +30,10 @@ Group A:
 (6)  Wed Jun/21 21:00     Mexico 	     2-1 (0-1)   New Zealand  @ Fisht Olympic Stadium, Sochi
                              [Jiménez 54' Peralta 72'; Wood 42'] 
 
-(9)  Sat Jun/24 18:00     Mexico 	     -  Russia       @ Kazan Arena, Kazan
-(10) Sat Jun/24 18:00     New Zealand  -  Portugal     @ Krestovsky Stadium, Saint Petersburg
+(9)  Sat Jun/24 18:00     Mexico 	    2-1 (1-1)  Russia       @ Kazan Arena, Kazan
+                             [Araujo 30' Lozano 52'; Samedov 25']
+(10) Sat Jun/24 18:00     New Zealand  0-4 (0-2)  Portugal     @ Krestovsky Stadium, Saint Petersburg
+                             [-; Ronaldo 33' (pen.) B. Silva 37' A. Silva 80' Nani 90+1']
 
 
 Group B:
