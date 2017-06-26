@@ -48,18 +48,19 @@ Group B:
 (8)   Thu Jun/22 21:00    Germany 	  1-1 (1-1)  Chile        @ Kazan Arena, Kazan
                              [Stindl 41'; Sánchez 6']
                              
-(11)  Sun Jun/25 18:00    Germany 	   -  Cameroon     @ Fisht Olympic Stadium, Sochi
-(12)  Sun Jun/25 18:00    Chile 	     -  Australia    @ Otkrytiye Arena, Moscow
-
+(11)  Sun Jun/25 18:00    Germany 	  3-1 (1-0)  Cameroon     @ Fisht Olympic Stadium, Sochi
+                             [Demirbay 48' Werner 66', 81'; Aboubakar 78']
+(12)  Sun Jun/25 18:00    Chile 	    1-1 (0-1) Australia    @ Otkrytiye Arena, Moscow
+                             [Rodríguez 67'; Troisi 42']  
 
 
 ####################
 # Knockout stage
 
-## (4) Semi-finals
+(4) Semi-finals
 
-## (13) Wed Jun/28 21:00    ?  -  ?        @ Kazan Arena, Kazan             ## Winner Group A	-	Runner-up Group B
-## (14) Thu Jun/29 21:00    ?  -  ?      @ Fisht Olympic Stadium, Sochi   ## Winner Group B - Runner-up Group A
+(13) Wed Jun/28 21:00    Portugal  -  Chile       @ Kazan Arena, Kazan             ## Winner Group A	-	Runner-up Group B
+(14) Thu Jun/29 21:00    Germany   -  Mexico      @ Fisht Olympic Stadium, Sochi   ## Winner Group B - Runner-up Group A
 
 
 ## (5) Third place play-off
